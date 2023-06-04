@@ -6,18 +6,9 @@ Now keyboard control is supported.
 
 A = move left, D = move right, W = rotate, S = drop
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Game
+<img width="959" alt="Screenshot_5" src="https://github.com/jcr04/Tetris_flutter/assets/70778525/c59bba9c-c6c7-444f-b2fc-a739fa32bb99">
+<img width="960" alt="Screenshot_6" src="https://github.com/jcr04/Tetris_flutter/assets/70778525/c0365e88-3cc4-47ae-b034-c759d71a1a10">
 
 ## Todo
 
